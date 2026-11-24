@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="bg-remover-ai" width="840" />
-
 # BgRemoverAi — Local Background Removal for Photos and Video (One-Command Setup, Prebuilt Release)
 
 <p><strong>BgRemoverAi — Local Background Removal for Photos and Video (One-Command Setup, Prebuilt Release): Cut backgrounds out of photos and video. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
